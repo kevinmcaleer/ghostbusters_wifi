@@ -4,6 +4,8 @@ a Ghostbusters PKE meter hand-held 3d printed holder.
 
 The two arms will raise or lower dependent on the Signal strength of the wifi
 
+![Ghost logo with wifi background](ghost.jpg)
+
 # 3D Printable files
 The STLs will be available shortly:
 - [Top Section](stl_files/top.stl)
