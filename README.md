@@ -7,7 +7,7 @@ The two arms will raise or lower dependent on the Signal strength of the wifi
 ![Ghost logo with wifi background](splash.jpg)
 
 # 3D Printable files
-The STLs will be available shortly:
+You can download the STLs for 3d printing here::
 - [Top Section](stl_files/top.stl)
 - [Back](stl_files/back.stl)
 - [Middle Section](stl_files/middle_section.stl)
