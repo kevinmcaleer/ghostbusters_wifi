@@ -2,6 +2,10 @@
 Yep this is exactly what it sounds like - I've created a Wifi Scanner using a Raspberry Pi Pico W, a small Pimoroni Display for Pico, all within
 a Ghostbusters PKE meter hand-held 3d printed holder.
 
+# YouTube Video
+Click the thumbnail below to watch the show all about this build.
+[![](https://img.youtube.com/vi/XTUOUlSnVpc/0.jpg)](https://youtu.be/XTUOUlSnVpc)
+
 The two arms will raise or lower dependent on the Signal strength of the wifi
 
 ![Ghost logo with wifi background](splash.jpg)
@@ -10,6 +14,7 @@ The two arms will raise or lower dependent on the Signal strength of the wifi
 You can download the STLs for 3d printing here::
 - [Top Section](stl_files/top.stl)
 - [Back](stl_files/back.stl)
+- []
 - [Middle Section](stl_files/middle_section.stl)
 - [Handle](stl_files/handle.stl)
 - [Left Arm](stl_files/left_arm.stl)
