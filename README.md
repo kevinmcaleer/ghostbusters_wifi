@@ -14,7 +14,7 @@ The two arms will raise or lower dependent on the Signal strength of the wifi
 You can download the STLs for 3d printing here::
 - [Top Section](stl_files/top.stl)
 - [Back](stl_files/back.stl)
-- []
+- [Back Layer](stl_files/back_layer.stl)
 - [Middle Section](stl_files/middle_section.stl)
 - [Handle](stl_files/handle.stl)
 - [Left Arm](stl_files/left_arm.stl)

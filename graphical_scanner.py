@@ -221,12 +221,9 @@ while True or KeyboardInterrupt:
         machine.reset()
     
     if button_a.read():
-        start_up()
-        new_list = start_up()
-        ssid_list = short_list(new_list)
-        inset = 60
-        listbox = Listbox(display, ssid_list,0, inset, WIDTH, HEIGHT-inset*4)
-        listbox.draw()
+        draw_jpg(display, LOGO_FILENAME)
+        s.to_percent(0.4)
+        sleep(10)
     
     if button_y.read():
         listbox.down()
